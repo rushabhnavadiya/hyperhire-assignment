@@ -1,0 +1,34 @@
+name: hyperhire_assignment
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get_cli: ^1.8.1
+  get: ^4.6.5
+  flutter_screenutil: ^5.9.3
+  google_fonts: 6.1.0
+  gradient_borders: 1.0.1
+  carousel_slider: 4.2.1
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: 0.13.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/icons/
+    - assets/images/
+  uses-material-design: true
+
+flutter_launcher_icons:
+  image_path: assets/images/userProfile1.png
+  android: true
+  ios: true
