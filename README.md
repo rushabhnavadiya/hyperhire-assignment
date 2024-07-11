@@ -2,9 +2,13 @@
 
 This project is built using Flutter with GetX state management.
 
+https://github.com/rushabhnavadiya/hyperhire-assignment/assets/55693332/7814def0-6dfd-445a-922c-adc5baa026f5
+
 ## APK File
 [HyperHire.apk](https://drive.google.com/file/d/187HUjPxkUZP9XPrmjOnXngIpObTsEWT0/view?usp=sharing)
 
+## Figma File
+[Design Link](https://www.figma.com/design/gLgTi82p2R9bpDDvvdhiga/App-1?node-id=0-1)
 
 ## How to Run the App
 
